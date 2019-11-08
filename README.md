@@ -8,4 +8,4 @@ FineFuzzyLogic - Distinguishes between 11 different positions of obstruction
 
 
 Running Instructions:
-With the files all located in the same directory, both 'RobotCourseLogic' and 'RobotFineLogic' can be opened and run in a web browser. Google Chrome is recommended. Browser may claim that the script has become unresponsive but given time, execution should be successful.
+With the files all located in the same directory, both 'RobotCourseLogic.html' and 'RobotFineLogic.html' can be opened and run in a web browser. Google Chrome is recommended. Browser may claim that the script has become unresponsive but given time, execution should be successful.
